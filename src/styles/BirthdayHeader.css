@@ -1,0 +1,19 @@
+.Header {
+  margin-left: 50%;
+  transform: translate(-50%, 0);
+  width: 95vw;
+  height: 40px;
+  line-height: 40px;
+  font-size: 30px;
+  padding: 0;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.Header a {
+  text-decoration: none;
+  border-radius: 3px;
+  background-color: lightblue;
+}

@@ -1,0 +1,17 @@
+.Calendar {
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Calendar div {
+  width: 14vw;
+  height: 15vh;
+  background-color: black;
+  margin: 10px;
+  line-height: 3vh;
+  color: #fff;
+  text-align: center;
+}
